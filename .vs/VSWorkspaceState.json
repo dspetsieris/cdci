@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\airline",
+    "\\app",
+    "\\flights",
+    "\\flights\\migrations",
+    "\\users"
+  ],
+  "SelectedNode": "\\flights\\tests.py",
+  "PreviewInSolutionExplorer": false
+}
